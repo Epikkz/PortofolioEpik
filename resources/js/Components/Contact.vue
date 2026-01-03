@@ -38,7 +38,7 @@ onMounted(() => {
       </h1>
       <div class="bg-gray-800 p-4 sm:p-6 rounded-lg shadow-lg">
         <a
-          href="https://www.linkedin.com"
+          href="https://www.linkedin.com/in/vikri-razzak-908942303/"
           target="_blank"
           class="group relative flex items-center border-b border-gray-600 py-3 sm:py-4 cursor-pointer overflow-hidden"
         >
@@ -53,7 +53,7 @@ onMounted(() => {
           ></span>
         </a>
         <a
-          href="https://wa.me/"
+          href="https://wa.me/6285179696920"
           target="_blank"
           class="group relative flex items-center border-b border-gray-600 py-3 sm:py-4 cursor-pointer overflow-hidden"
         >
@@ -68,7 +68,7 @@ onMounted(() => {
           ></span>
         </a>
         <a
-          href="https://www.instagram.com"
+          href="https://www.instagram.com/ordinaryswanderer/"
           target="_blank"
           class="group relative flex items-center border-b border-gray-600 py-3 sm:py-4 cursor-pointer overflow-hidden"
         >
@@ -82,7 +82,7 @@ onMounted(() => {
             class="absolute inset-0 bg-pink-500 opacity-0 group-hover:opacity-30 transition-opacity duration-300"
           ></span>
         </a>
-        <a
+        <!-- <a
           href="https://www.twitter.com"
           target="_blank"
           class="group relative flex items-center py-3 sm:py-4 cursor-pointer overflow-hidden"
@@ -96,7 +96,7 @@ onMounted(() => {
           <span
             class="absolute inset-0 bg-blue-400 opacity-0 group-hover:opacity-30 transition-opacity duration-300"
           ></span>
-        </a>
+        </a> -->
       </div>
     </div>
   </div>

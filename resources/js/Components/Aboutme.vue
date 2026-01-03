@@ -10,9 +10,9 @@ import { usePage } from '@inertiajs/vue3';
       <!-- About Text Section -->
       <div class="w-full md:w-1/2 mb-8 md:mb-0 flex flex-col items-start text-left">
         <h1 class="text-4xl md:text-5xl font-bold text-blue-400 mb-4">About Me</h1>
-        <h2 class="text-2xl font-bold mb-2">VIKRI ABDULLAH R – FRONT END, UI/UX</h2>
+        <h2 class="text-2xl font-bold mb-2">VIKRI ABDULLAH R – FULLSTACK WEB, UI/UX, GAME DEVELOPER</h2>
         <p class="text-base leading-relaxed mb-4">
-          Hi, My name is Vikri Abdullah R. I am a front-end developer and UI/UX designer experienced in creating engaging and functional user interfaces. I am proficient in HTML, CSS, JavaScript, and various modern frameworks such as Vue.js and Laravel. Furthermore, I am also experienced in UI/UX design focused on optimal user experience.
+          Hi, My name is Vikri Abdullah R. I am a Fullstack Web Developer, UI/UX and also a small game developer i've  experienced in creating engaging and functional user interfaces. I am proficient in HTML, CSS, JavaScript, and various modern frameworks such as Vue.js and Laravel. Furthermore, I am also experienced in UI/UX design focused on optimal user experience.
           I have worked on a variety of projects, from web applications to e-commerce sites, and I always strive to provide innovative and efficient solutions. I believe that good design should not only be visually appealing but also easy to use and responsive across devices.
           I also have experience working with cross-functional teams, including back-end developers and graphic designers, to ensure each project runs smoothly from start to finish. I am always open to learning new things and adapting to the latest technologies to improve my skills.
         </p>

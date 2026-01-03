@@ -8,7 +8,7 @@ let observer = null; // IntersectionObserver instance
 
 // Function to start the counting animation
 const startCounting = () => {
-  const target = 11; // Target number
+  const target = 12; // Target number
   const duration = 2000; // Total animation duration in milliseconds
   const steps = target; // Number of steps (counting whole numbers)
   const interval = duration / steps; // Interval time per step
@@ -53,7 +53,7 @@ onMounted(() => {
       <h1 class="text-4xl font-bold mb-4">Number Of Projects I Did.</h1>
       <p id="number-counter" class="text-6xl font-bold mb-2">{{ number }}</p>
       <p class="text-lg">
-        Including Personal Projects, School Projects, and Projects with Corporations
+        Including Personal Projects, Old School Projects, and Projects with Corporations
       </p>
     </div>
     <div class="flex justify-center items-center mt-8 w-full" data-aos="zoom-in">

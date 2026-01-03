@@ -4,7 +4,7 @@ import { ref, onMounted, onBeforeUnmount } from 'vue';
 // Define content data
 const contents = ref([
   {
-    title: 'System E-Voting SMKN 1 KOTA BENGKULU',
+    title: 'E-Voting System for SMKN 1 KOTA BENGKULU',
     description:
       'Web-based E-Voting Application System that my team and I created for the election of OSIS & MPK chairman of SMKN 1 Kota Bengkulu, our application is currently still being used at SMKN 1 KOTA BENGKULU!',
     image:
@@ -13,7 +13,7 @@ const contents = ref([
   {
     title: 'School Suite SMKN 1 KOTA BENGKULU',
     description:
-      'School Suite is a web-based digital attendance system. Its a collaborative application between SMKN 1 KOTA BENGKULU and PT Inovindo Digital Media. Im the front-end team here! <a href="https://schoolsuite.id/" class="text-pink-500 underline" target="_blank">Website SchoolSuite</a> (Website Unactive)',
+      'School Suite is a web-based digital attendance system. Its a collaborative application between SMKN 1 KOTA BENGKULU and PT Inovindo Digital Media. Im the front-end team here! (Website Unactive)',
     image:
       'assets/ssuite.jpg',
   },
@@ -50,6 +50,14 @@ const contents = ref([
       'assets/formregistrasi.png',
   },
 
+  {
+    title: 'RedOrGreenFlag.my.id',
+    description:
+      'Instagram Account Checker Website, to check whether an instagram account is a red flag or green flag account <a href="https://redorgreenflag.my.id" class="text-pink-500 underline" target="_blank">Visit the Website!</a>',
+    image:
+      'assets/redorgreenflag.png',
+  },
+
      {
     title: 'Apotek E-Commerce',
     description:
@@ -64,6 +72,14 @@ const contents = ref([
       'Personal game project that I made, with the Godot Engine <a href="https://bluesluka.itch.io/deadman-project" class="text-pink-500 underline" target="_blank">Download Game nya (PC Only)</a>',
     image:
       'assets/deadman.png',
+  },
+
+     {
+    title: 'Project : ShellShock',
+    description:
+      'Platformer game i made with my other 2 friends for Game Jam competition <a href="https://bluesluka.itch.io/project-shellshock" class="text-pink-500 underline" target="_blank">Play the game in browser (All Device)</a>',
+    image:
+      'assets/shellshock.png',
   },
 
      {

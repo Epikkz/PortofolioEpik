@@ -2,7 +2,7 @@
 import { ref, onMounted } from 'vue';
 
 const baseText = "I Am into ";
-const words = ["Front-End", "UI/UX", "Design"];
+const words = ["Fullstack Web", "UI/UX", "Game Developer"];
 let i = 0; // index for the current word
 let j = 0; // index for the current letter of the word
 let isDeleting = false; // flag for deletion mode
@@ -51,7 +51,6 @@ onMounted(() => {
       <div class="text-center md:text-left">
         <h1 class="text-3xl md:text-5xl font-bold mb-4">Hi! My name is Vikri Abdullah Razzak</h1>
         <p class="text-xl md:text-2xl mb-4">A Computer Science enthusiast.</p>
-        <p class="text-xl md:text-2xl mb-4">Part of Exovate.tech</p>
         <p class="text-lg md:text-xl mb-8" v-text="typewriterText"></p>
         <a href="#project">
           <button
